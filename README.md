@@ -13,4 +13,22 @@ Uncover the factors that lead to employee attrition and explore important questi
 -	Which department made most attrition?
 -	Compare job satisfaction and attrition.
 -	Compare education field by attrition.
+## Dashboard Interaction view dashboard
+## Process
+-	Verify data for any missing values and anomalies and sort out the same.
+-	Made sure data is consistent and clean with respect to data type, data format and values used.
+-	Created pivot tables according to questions asked.
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+## Dashboard
+![IBM](https://github.com/user-attachments/assets/f93d1645-ef85-423a-aa39-000a60b04886)
+
+## Project Insight
+-	The age of 34-36 made maximum attrition.
+-	More attrition made by male employees.
+-	Job roles like Sales Executive, Research Scientist, Sales Representative has maximum attrition.
+-	Research and development department make maximum attrition.
+-	Educational fields like life sciences and medical has maximum attrition count.
+## Final Conclusion
+The analysis of IBM HR Analytics Employee Attrition data reveals key insights into employee turnover patterns. Attrition is most prevalent among employees aged 34-36, with male employees being more affected. Specific job roles, including sales executive, research scientist, and sales representative, show the highest attrition rates. Additionally, the research and development department experiences the most attrition, with employees from life sciences and medical educational fields being the most impacted. This highlights the need for targeted retention strategies in these demographics and roles.
+
 
