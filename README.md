@@ -13,7 +13,8 @@ Uncover the factors that lead to employee attrition and explore important questi
 -	Which department made most attrition?
 -	Compare job satisfaction and attrition.
 -	Compare education field by attrition.
-## Dashboard Interaction view dashboard
+## Dashboard Interaction 
+- <a href="https://github.com/nehajadhav-projects/IBM_HR_Analytics/blob/main/IBM.png">view dashboard<a/>
 ## Process
 -	Verify data for any missing values and anomalies and sort out the same.
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
